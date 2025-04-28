@@ -5,7 +5,6 @@
 - [Dashboard](#dashboard)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
-- [Link to Viz](#link-to-viz)
 - [Conclusion](#conclusion)
 ## Project Overview
 This project delves into the 2014 PeakPulse Sales Performance dataset to identify trends in sales metrics, geographic performance, product categories, key clients, and seasonal variations. The objective is to extract meaningful insights to enhance strategic planning, optimize sales operations, and improve market targeting.
@@ -37,8 +36,6 @@ PRODUCT CATEGORY
 4. Prioritize marketing and stock for lower-cost beverages ($0-500), as they drive more transactions.
 5. Strengthen ties with Company A by offering loyalty discounts or exclusive deals on beverages, especially in December. Use this relationship to upsell other product categories and expand their purchases in the Northern region.
 6. Adopt Nancy and Anne strategy in generating more sales by training Jan Kotas.
-## Link To Viz
-Annotation 2025-04-11 231916.png
 
 ## Conclusion
 In conclusion, the analysis of the 2014 PeakPulse Sales Performance dataset reveals critical insights into sales dynamics, highlighting top-performing salespeople, regions, and product categories. These findings provide a solid foundation for refining sales strategies, optimizing resource distribution, and targeting high-potential markets, ultimately driving improved business outcomes.
