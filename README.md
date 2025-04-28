@@ -11,7 +11,7 @@ This project delves into the 2014 PeakPulse Sales Performance dataset to identif
 ## Tools and Methodology
 Microsoft Excel: Used microsoft excel for the cleaning, creating pivot tables, and for dashboard creation
 ## Dashboard 
-![Annotation 2025-04-11 231916](https://github.com/user-attachments/assets/5e4653d1-cb3f-408b-9885-236647640e4c)
+https://github.com/Oladapo-Py/Peakpulse-sales-performance-insight/blob/main/Annotation%202025-04-11%20231916.png
 ## Key Insights
 SALESPERSON
 1. Nancy recorded $104,242 in total sales, significantly contributing to revenue.
